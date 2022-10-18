@@ -1,0 +1,36 @@
+.container {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.blue_btn {
+  background: #5b34ea;
+  border-radius: 1.25rem;
+  color: #ffffff;
+  box-sizing: border-box;
+
+  &:hover {
+    background: #7c5dee;
+  }
+}
+
+.miru-image-box-shadow {
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+}
+
+.miru-grey-gradient-background {
+  background: linear-gradient(180deg, #ebeff2 0%, rgba(235, 239, 242, 0) 100%);
+}
+.text-gradient {
+  background: linear-gradient(180deg, #8062ef 0%, #3111a6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.logo-in-background {
+  background: url("../assets/large-transparent-logo.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+}

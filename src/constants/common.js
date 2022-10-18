@@ -1,0 +1,1 @@
+export const PAGE_KEYWORDS = `Miru, Free Time Tracking platform, Invoicing platform, Employee management platform, Data Driven Reports, Project Management, Smart Invoicing, Increase productivity, Lightning Fast Payments, Send Invoices, Streamline Collaboration, Manage Employee hours, Workload management`;
